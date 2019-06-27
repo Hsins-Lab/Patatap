@@ -123,7 +123,7 @@ function onKeyDown(event) {
   }
 }
 
-function onFrame(event){
+function onFrame(event) {
   for (var i = 0; i < circles.length; i++) {
     circles[i].scale(0.9);
     circles[i].fillColor.hue += 1;
