@@ -11,6 +11,17 @@ body, html {
   overflow: hidden;     /* to hide the vertical scroll bar that appears automatically */
 }
 
+/* hide hint bloack with any keydown*/
+.keydown {
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: visibility 0s 1s, opacity 1s linear;    /* For Webkit browser(Chrome, Safari...) */
+    -moz-transition: visibility 0s 1s, opacity 1s linear;       /* For Mozilla browser */
+    -o-transition: visibility 0s 1s, opacity 1s linear;         /* For Opera browser */
+    -ms-transition: visibility 0s 1s, opacity 1s linear;        /* For Microsoft browser */
+    transition: visibility 0s 1s, opacity 1s linear;            /* For all browser(Newest version) */
+}
+
 #hint .message {
   display: inline-block;
   background: white;
