@@ -1,4 +1,4 @@
-var data = {
+var keyData = {
   q: {
     sound: new Howl({urls: ['./assets/sounds/bubbles.mp3']}),
     color: '#1abc9c'
