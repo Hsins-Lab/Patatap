@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
-  <a href="https://github.com/Hsins/udemy_Patatap/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/Hsins/udemy_Patatap.svg" />
+  <a href="https://github.com/hsins-til/udemy_Patatap/blob/master/LICENSE" alt="License">
+    <img src="https://img.shields.io/github/license/hsins-til/udemy_Patatap.svg" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@ This is a hands-on project from the Udemy course - [The Web Developer Bootcamp](
   <img src="./demo/demo.gif" />
 </div>
 
-You can see a complete working example [here](https://hsins.github.io/udemy_Patatap/).
+You can see a complete working example [here](https://hsins-til.github.io/udemy_Patatap/).
 
 # Features
 
